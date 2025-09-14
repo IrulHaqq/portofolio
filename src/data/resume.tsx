@@ -69,7 +69,7 @@ export const DATA = {
       start: "Feb 2025",
       end: "May 2025",
       description:
-        "Practicum Assistant for the Software Project practicum",
+        "Practicum Assistant for the Software Project practicum, supporting over 70 students. Developed teaching modules on version control (Git with SourceTree and GitHub), project management tools (Jira), and automated testing. Guided students in applying these tools to collaborative practicum projects, strengthening their teamwork, coding practices, and adoption of industry-standard workflows",
     },
     {
       company: "Enterprise Application Development Laboratorium",
@@ -80,7 +80,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Nov 2024",
       description:
-        "Practicum Assistant for the Web Application Development",
+        "Served as Practicum Assistant for the Web Application Development (WAD) practicum under the Enterprise Application Development Laboratory. Guided over 60 students in coding exercises, debugging, and project management, as well as evaluating practicum projects. Additionally, held the role of Secretary II, managing attendance, classroom reservations, and documentation. Authored the teaching module for Session 5 (Laravel), including case study materials and practicum journal assignments, which enhanced students’ understanding and supported higher practicum completion rates",
     },
     {
       company: "LOGEE DBT PT Telkom Indonesia (Persero) Tbk",
